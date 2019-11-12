@@ -1,7 +1,0 @@
-这是Qt的工程
-是一个Windows下Qt引用FFMPEG的例子
-FFMPEG的版本是2.5.2
-
-
-关于代码的解释请看一下这篇文章：
-http://blog.yundiantech.com/?log=blog&id=7
